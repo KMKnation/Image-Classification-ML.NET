@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/hb/machinelearning/Image-Classification-ML.NET/train/train.csproj": {}
+  },
+  "projects": {
+    "/home/hb/machinelearning/Image-Classification-ML.NET/shared/shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/hb/machinelearning/Image-Classification-ML.NET/shared/shared.csproj",
+        "projectName": "shared",
+        "projectPath": "/home/hb/machinelearning/Image-Classification-ML.NET/shared/shared.csproj",
+        "packagesPath": "/home/hb/.nuget/packages/",
+        "outputPath": "/home/hb/machinelearning/Image-Classification-ML.NET/shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/hb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/hb/machinelearning/Image-Classification-ML.NET/train/train.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/hb/machinelearning/Image-Classification-ML.NET/train/train.csproj",
+        "projectName": "train",
+        "projectPath": "/home/hb/machinelearning/Image-Classification-ML.NET/train/train.csproj",
+        "packagesPath": "/home/hb/.nuget/packages/",
+        "outputPath": "/home/hb/machinelearning/Image-Classification-ML.NET/train/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/hb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/hb/machinelearning/Image-Classification-ML.NET/shared/shared.csproj": {
+                "projectPath": "/home/hb/machinelearning/Image-Classification-ML.NET/shared/shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.ML.ImageAnalytics": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.ML.Vision": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "SciSharp.TensorFlow.Redist": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "SharpZipLib": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+/home/hb/machinelearning/Image-Classification-ML.NET/shared/bin/Debug/netcoreapp3.1/shared.deps.json
+/home/hb/machinelearning/Image-Classification-ML.NET/shared/bin/Debug/netcoreapp3.1/shared.dll
+/home/hb/machinelearning/Image-Classification-ML.NET/shared/bin/Debug/netcoreapp3.1/shared.pdb
+/home/hb/machinelearning/Image-Classification-ML.NET/shared/obj/Debug/netcoreapp3.1/shared.csprojAssemblyReference.cache
+/home/hb/machinelearning/Image-Classification-ML.NET/shared/obj/Debug/netcoreapp3.1/shared.AssemblyInfoInputs.cache
+/home/hb/machinelearning/Image-Classification-ML.NET/shared/obj/Debug/netcoreapp3.1/shared.AssemblyInfo.cs
+/home/hb/machinelearning/Image-Classification-ML.NET/shared/obj/Debug/netcoreapp3.1/shared.csproj.CoreCompileInputs.cache
+/home/hb/machinelearning/Image-Classification-ML.NET/shared/obj/Debug/netcoreapp3.1/shared.dll
+/home/hb/machinelearning/Image-Classification-ML.NET/shared/obj/Debug/netcoreapp3.1/shared.pdb
