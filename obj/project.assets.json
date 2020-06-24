@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hb/machinelearning/Image-Classification-ML.NET/consumeModelApp/consumeModelApp.csproj",
-      "projectName": "consumeModelApp",
-      "projectPath": "/home/hb/machinelearning/Image-Classification-ML.NET/consumeModelApp/consumeModelApp.csproj",
+      "projectUniqueName": "/home/hb/machinelearning/Image-Classification-ML.NET/Image-Classification-ML.NET.csproj",
+      "projectName": "Image-Classification-ML.NET",
+      "projectPath": "/home/hb/machinelearning/Image-Classification-ML.NET/Image-Classification-ML.NET.csproj",
       "packagesPath": "/home/hb/.nuget/packages/",
-      "outputPath": "/home/hb/machinelearning/Image-Classification-ML.NET/consumeModelApp/obj/",
+      "outputPath": "/home/hb/machinelearning/Image-Classification-ML.NET/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hb/.nuget/NuGet/NuGet.Config"
