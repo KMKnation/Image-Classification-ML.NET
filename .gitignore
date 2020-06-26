@@ -7,3 +7,5 @@
 /train/bin/
 /train/assets/flower_photos/
 /train/assets/outputs/imageClassifier.zip
+/web/bin/
+/web/ML/imageClassifier.zip
