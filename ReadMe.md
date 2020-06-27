@@ -10,3 +10,5 @@ To build .NET apps, you need to download and install the .NET Core 3.1 SDK (Soft
 - inference (Inference related code)
 - shared (shared common files)
 - train (training script)
+
+#####Training Steps & Commands
